@@ -1,0 +1,10 @@
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\bin\Debug\Camera_triger.exe.config
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\bin\Debug\Camera_triger.exe
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\bin\Debug\Camera_triger.pdb
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\bin\Debug\IPS_ToolBox.dll
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\bin\Debug\IPS_ToolBox.pdb
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\obj\x86\Debug\Camera_triger.Form1.resources
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\obj\x86\Debug\Camera_triger.Properties.Resources.resources
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\obj\x86\Debug\Camera_triger.csproj.GenerateResource.Cache
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\obj\x86\Debug\Camera_triger.exe
+C:\Works_NET\ips_systems_new\Camera_triger\Camera_triger\obj\x86\Debug\Camera_triger.pdb
